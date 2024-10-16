@@ -4,7 +4,8 @@ Login GUI
 
 Products GUI
 
-![image](https://github.com/user-attachments/assets/605680bf-94f0-45d8-b379-3bb5617e30ae)
+![image](https://github.com/user-attachments/assets/073e28e1-4120-4dfc-bc62-b41e5cabc3d8)
+
 
 Workers GUI
 
